@@ -16,15 +16,16 @@
   {
     "id": 2,
     "title": "Caminhos do Crime",
+    "trailerUrl": "https://www.youtube.com/embed/VfTjq-SzBb8?si=pT2y1NqCR6OHHuLu",
     "year": 2026,
     "category": "movie",
     "genre": "Crime",
     "featured": true,
     "quality": "1080p",
     "audio": "Dub",
-    "createdAt": "2026-04-10",
+    "createdAt": "2026-04-12",
     "poster": "https://github.com/MiguelNogueiraJunior/flixnet-assets/blob/main/Caminhos-d0-crime.jpg?raw=true",
-    "description": "O mercenário tagarela encontra o mutante ranzinza."
+    "description": "Um ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101. Quando ele mira o golpe de sua vida — na esperança de que este seja seu último trabalho —, seu caminho cruza com o de uma corretora de seguros desiludida, forçando os dois a colaborar. Determinado a desvendar o caso, um detetive implacável se aproxima da operação."
   },
   {
     "id": 3,
