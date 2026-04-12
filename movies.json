@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Deadpool & Wolverine",
+    "title": "Avatar Fogo e Cinzas",
     "year": 2024,
     "category": "movie",
     "genre": "Ação",
@@ -9,7 +9,7 @@
     "quality": "1080p",
     "audio": "Dub",
     "createdAt": "2026-04-10",
-    "poster": "https://raw.githubusercontent.com/seu-usuario/flixnet-assets/main/deadpool.jpg",
+    "poster": "https://github.com/MiguelNogueiraJunior/flixnet-assets/blob/main/Avatr-fogo-cinzas.jpg?raw=true",
     "description": "O mercenário tagarela encontra o mutante ranzinza."
   },
   {
