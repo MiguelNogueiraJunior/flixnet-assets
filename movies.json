@@ -19,7 +19,7 @@
     "trailerUrl": "https://www.youtube.com/embed/VfTjq-SzBb8?si=pT2y1NqCR6OHHuLu",
     "year": 2026,
     "category": "movie",
-    "genre": "Crime",
+    "genre": ["Crime", "Thriller"]
     "featured": true,
     "quality": "1080p",
     "audio": "Dub",
