@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "title": "Avatar: Fogo e Cinzas",
+    "backdrop": "https://github.com/MiguelNogueiraJunior/flixnet-assets/blob/main/banners/avatar-backdrop.jpg?raw=true",
+    "description": "Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas.",
+    "buttonLink": "/movie/1"
+  },
+  {
+    "id": 2,
+    "movieId": 2,
+    "title": "Caminhos do Crime",
+    "backdrop": "https://github.com/MiguelNogueiraJunior/flixnet-assets/blob/main/banners/caminhos-crime-backdrop.jpg?raw=true",
+    "description": "Um ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101.",
+    "buttonLink": "/movie/2"
+  }
+]
